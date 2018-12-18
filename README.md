@@ -1,5 +1,6 @@
 # LightPaint  
-**Light painting in the Pimoroni´s unicornhat with a USB-SNES controller**  
+**Light painting in the Pimoroni´s unicornhat with a USB-SNES controller** 
+This is my first project ever other than following tutorials.
 
 <h2> Requisitos.  
 
