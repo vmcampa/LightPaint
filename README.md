@@ -4,11 +4,12 @@
 Requisitos.
 
 Hardware: Raspberry Pi, Unicornhat, USB-SNES controller
-![SNES](/jpgs/USB_SNES_controller.jpg)
 
 ![unicornhat](/jpgs/unicornhat.jpg)
 
 ![RPi3B](/jpgs/Raspberry_Pi3.jpg)
+
+![SNES](/jpgs/USB_SNES_controller.jpg)
 
 Sofware:
 Unicornhat, etc.
