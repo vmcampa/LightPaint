@@ -27,3 +27,5 @@ _sudo python3 paint.py_<br/>
 Use **arrowkeys** to move the pencil and buttons to add a colour (**X**: blue, **Y**: green, **A**: red, **B**:yellow, **Right_Shoulder**: Black, **Left_shoulder**: white).
 **Mode** to change mode between drawing and slideshow.
 Whithin slideshow use **Right/Left_shoulder** to save image as json file and **start** to start/stop the slideshow.
+
+vmc
