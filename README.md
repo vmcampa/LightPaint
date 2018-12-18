@@ -1,5 +1,5 @@
 # LightPaint
-Light painting in the Pimoroni´s unicornhat with a USB-SNES controller
+**Light painting in the Pimoroni´s unicornhat with a USB-SNES controller**
 
 Requisitos.
 Hardware: Raspberry Pi, Unicornhat, USB-SNES controller
